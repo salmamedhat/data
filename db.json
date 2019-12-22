@@ -1,38 +1,38 @@
 [
     {
-      id: 1,
-      title: "Jex Jaxon",
-      img:
+      "id": 1,
+      "title": "Jex Jaxon",
+      "img":
         "https://i.ibb.co/1z1BbKJ/1.jpg",
-      subtitle:
+      "subtitle":
         "One of the best chairs ever created. Truly a masterpiece. Stood the test of time.",
-      content: "conn"
+      "content": "conn"
     },
     {
-      id: 2,
-      title: "Twist & Shout",
-      img:
+      "id": 2,
+      "title": "Twist & Shout",
+      "img":
         "https://i.ibb.co/wpZb2r6/2.jpg",
-      subtitle:
+      "subtitle":
         "A basic yet fancy stool with adjustable height. Simply spin the seat and adjust your needs.",
-      content: "conn"
+      "content": "conn"
     },
     {
-      id: 3,
-      title: "Wooden You Know",
-      img:
+      "id": 3,
+      "title": "Wooden You Know",
+      "img":
         "https://i.ibb.co/Lryr2G6/3.jpg",
-      subtitle:
+      "subtitle":
         "Contemporary, modern and elegant. This wooden creation is a treat for your seat.",
-      content: "conn"
+      "content": "conn"
     },
     {
-      id: 4,
-      title: "Loners Dream",
-      img:
+      "id": 4,
+      "title": "Loners Dream",
+      "img":
         "https://i.ibb.co/H7z3txR/4.jpg",
-      subtitle:
+      "subtitle":
         "We only made one of these. Going for a staggering $20,000, all proceeds will go to charity.",
-      content: "conn"
+      "content": "conn"
     }
 ]
