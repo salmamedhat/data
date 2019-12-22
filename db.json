@@ -1,0 +1,38 @@
+[
+    {
+      id: 1,
+      title: "Jex Jaxon",
+      img:
+        "https://i.ibb.co/1z1BbKJ/1.jpg",
+      subtitle:
+        "One of the best chairs ever created. Truly a masterpiece. Stood the test of time.",
+      content: "conn"
+    },
+    {
+      id: 2,
+      title: "Twist & Shout",
+      img:
+        "https://i.ibb.co/wpZb2r6/2.jpg",
+      subtitle:
+        "A basic yet fancy stool with adjustable height. Simply spin the seat and adjust your needs.",
+      content: "conn"
+    },
+    {
+      id: 3,
+      title: "Wooden You Know",
+      img:
+        "https://i.ibb.co/Lryr2G6/3.jpg",
+      subtitle:
+        "Contemporary, modern and elegant. This wooden creation is a treat for your seat.",
+      content: "conn"
+    },
+    {
+      id: 4,
+      title: "Loners Dream",
+      img:
+        "https://i.ibb.co/H7z3txR/4.jpg",
+      subtitle:
+        "We only made one of these. Going for a staggering $20,000, all proceeds will go to charity.",
+      content: "conn"
+    }
+]
