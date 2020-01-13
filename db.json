@@ -6,7 +6,8 @@
         "https://i.ibb.co/1z1BbKJ/1.jpg",
       "subtitle":
         "One of the best chairs ever created. Truly a masterpiece. Stood the test of time.",
-      "content": "conn"
+      "content": "conn",
+      "price":2
     },
     {
       "id": 2,
@@ -15,7 +16,8 @@
         "https://i.ibb.co/wpZb2r6/2.jpg",
       "subtitle":
         "A basic yet fancy stool with adjustable height. Simply spin the seat and adjust your needs.",
-      "content": "conn"
+      "content": "conn",
+      "price":2
     },
     {
       "id": 3,
@@ -24,7 +26,8 @@
         "https://i.ibb.co/Lryr2G6/3.jpg",
       "subtitle":
         "Contemporary, modern and elegant. This wooden creation is a treat for your seat.",
-      "content": "conn"
+      "content": "conn",
+      "price":2
     },
     {
       "id": 4,
@@ -33,6 +36,7 @@
         "https://i.ibb.co/H7z3txR/4.jpg",
       "subtitle":
         "We only made one of these. Going for a staggering $20,000, all proceeds will go to charity.",
-      "content": "conn"
+      "content": "conn",
+      "price":2
     }
 ]
